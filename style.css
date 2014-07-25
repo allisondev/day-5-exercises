@@ -21,19 +21,9 @@ h1 {
 
 h2 a {
 
-  text-decoration: none;
-  font-size: 200%
+  font-size: 175%
 }
 
-h2 a:hover{
-
-  text-decoration: underline;
-}
-
-h2 a:visited {
-
-  color: purple;
-}
 
 article {
 
@@ -45,3 +35,19 @@ article {
 
   border-radius: 25px;
 }
+
+a {
+  text-decoration: none;
+  color: purple;
+}
+
+a:hover{
+
+  text-decoration: underline;
+}
+
+a:visited {
+
+  color: #B82A4B;
+}
+
