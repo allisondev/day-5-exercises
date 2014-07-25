@@ -2,20 +2,27 @@ html {
 
   background-color: black;
   color: white;
+  
+  font-size: 125%;
+  font-family: "Book Antiqua";
 }
 
 
 h1 {
 
   color: red;
-  text-align: center;
+  
   font-size: 300%;
+  font-weight: bold;
+
+  text-align: center;
+  margin: 1%;
 }
 
 h2 a {
 
   text-decoration: none;
-
+  font-size: 200%
 }
 
 h2 a:hover{
@@ -30,9 +37,11 @@ h2 a:visited {
 
 article {
 
-  margin: 10% 5%;
+  margin: 5% 5% 10%;
   padding: 2% 5%; 
   
   color: black; 
   background-color: #EEFF57;
+
+  border-radius: 25px;
 }

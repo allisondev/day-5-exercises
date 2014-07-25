@@ -24,7 +24,7 @@ $result = mysql_query('SELECT id, title, author, body FROM articles ORDER BY id 
   </head>
 
   <body>
-    <h1>Welcome to the Pirate Blog, Arrr Matey!!</h1>
+    <h1>Welcome to the Pirate Blog<br/> Arrr... Matey!!</h1>
 
     <?php
 
